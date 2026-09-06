@@ -40,9 +40,12 @@ int main()
 {
     // Creating Student object
     Student s1("Rutik", 62, 79.50);
+    Student s2("Rahul", 15, 76.0);
+
 
     // Calling user-defined function
     s1.displayDetails();
+    s2.displayDetails();
 
     return 0;
 }
