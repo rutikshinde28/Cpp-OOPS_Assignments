@@ -17,7 +17,7 @@ public:
         rollNo = r;
         marks = m;
 
-        cout << "Constructor called: Object created" << endl;
+        cout << "Constructor called." << endl;
     }
 
     // User-defined function
@@ -32,7 +32,7 @@ public:
     // Destructor
     ~Student()
     {
-        cout << "\nDestructor called: Object destroyed" << endl;
+        cout << "\nDestructor called." << endl;
     }
 };
 
