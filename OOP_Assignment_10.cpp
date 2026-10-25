@@ -60,4 +60,4 @@ int main() {
     student.display();
 
     return 0;
-} 
+}  
